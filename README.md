@@ -10,12 +10,12 @@ LBPH Opencv (Face Recognition)
 
 ## Features of Project:
 Real time face detection
-1] Home Page
-i) Student management system (Save, Take Photo Samples, Update, Delete, Clear) 
-ii) Train Photo Samples 
-iii) Take Attendance with Face Detection 
-iv) Attendance Report (Excel file & MySql database) 
-v) Developer Page
+- 1] Home Page
+-- i) Student management system (Save, Take Photo Samples, Update, Delete, Clear) 
+--ii) Train Photo Samples 
+--iii) Take Attendance with Face Detection 
+--iv) Attendance Report (Excel file & MySql database) 
+--v) Developer Page
 
 
 ## Libraries to install :
