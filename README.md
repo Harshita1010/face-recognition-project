@@ -23,8 +23,7 @@ v) Developer Page
 - `pip install opencv-contrib-python --upgrade` or `pip install opencv-contrib-python --user`
 - `pip install Pillow`
 - `pip install tkinter`
-- `pip install numpy`
-- 
+- `pip install numpy` 
 
 ## MySQL Workbench to install to store and create the table. All the students information has been stored using MySQL workbench and mysql connector
 `import mysql.connector`
