@@ -73,7 +73,9 @@ This was just created to give a brief idea about the project.
 - `Krish Naik Face REcognition tutorials`
 
 
-## =============== THANK YOU ===============
+
+
+## =============== THANK YOU =================
 
 
 
